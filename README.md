@@ -2,8 +2,8 @@
 
 A repo to hold the work for a news summarization generative deep models tool. 
 
-* [Mowafak Allaham](https://mallaham.github.io/) - MowafakAllaham2021 [@] u [dot] northwestern [dot] edu
-* [Julia Barnett](https://www.juliabbarnett.com/) - JuliaBarnett [@] u [dot] northwestern [dot] edu
+* [Mowafak Allaham](https://mallaham.github.io/) - MowafakAllaham2021 [at] u [dot] northwestern [dot] edu
+* [Julia Barnett](https://www.juliabbarnett.com/) - JuliaBarnett [at] u [dot] northwestern [dot] edu
 
 This work was created for a course on [Deep Generative Models](https://interactiveaudiolab.github.io/teaching/generative_deep_models.html) at Northwestern University taught by [Dr. Bryan Pardo](https://bryan-pardo.github.io/).
 
@@ -197,9 +197,9 @@ You can tell the claim is there, but the summary doesn’t quite make sense.
 ###
 
 ### Contact Us
-We hope you've enjoyed this work! We are both pursuing PhDs in Technology and Social Behavior at Northwestern University. If you have any questions feel free to reach out to either of us.
+We hope you've enjoyed this work! We are both pursuing a PhD in Technology and Social Behavior at Northwestern University. If you have any questions feel free to reach out to either of us.
 
-* [Mowafak Allaham](https://mallaham.github.io/) - MowafakAllaham2021 [@] u [dot] northwestern [dot] edu
-* [Julia Barnett](https://www.juliabbarnett.com/) - JuliaBarnett [@] u [dot] northwestern [dot] edu
+* [Mowafak Allaham](https://mallaham.github.io/) - MowafakAllaham2021 [at] u [dot] northwestern [dot] edu
+* [Julia Barnett](https://www.juliabbarnett.com/) - JuliaBarnett [at] u [dot] northwestern [dot] edu
 
 ###
