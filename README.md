@@ -5,6 +5,9 @@ A repo to hold the work for a news summarization generative deep models tool.
 * [Mowafak Allaham](https://mallaham.github.io/) - MowafakAllaham2021 [@] u [dot] northwestern [dot] edu
 * [Julia Barnett](https://www.juliabbarnett.com/) - JuliaBarnett [@] u [dot] northwestern [dot] edu
 
+This work was created for a course on [Deep Generative Models](https://interactiveaudiolab.github.io/teaching/generative_deep_models.html#calendar) at Northwestern University taught by [Dr. Bryan Pardo](https://bryan-pardo.github.io/).
+
+
 ## Table of Contents
 1. [Research Objectives](#research-objectives)
 2. [Intro to Computational Journalism](#intro-to-computational-journalism)
