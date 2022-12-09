@@ -1,3 +1,5 @@
+# Summarizing the News
+
 A repo to hold the work for a news summarization generative deep models tool. 
 
 ## Table of Contents
